@@ -1,0 +1,12 @@
+.container{
+  width:90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  min-height: 100vh;
+}
+#player1 #player2 {
+  background-image: url(../../img/rockpaperscissors.jpeg);
+  height: 300px;
+  width: 300px;
+}
